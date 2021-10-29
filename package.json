@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "xlsx": "^0.17.3"
+  }
+}
